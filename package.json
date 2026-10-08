@@ -1,0 +1,36 @@
+{
+  "name": "hackathon-webdev",
+  "version": "1.0.0",
+  "description": "webdev see",
+  "main": "postcss.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vignesh07-Coder/Hackathon-WebDev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Vignesh07-Coder/Hackathon-WebDev/issues"
+  },
+  "homepage": "https://github.com/Vignesh07-Coder/Hackathon-WebDev#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.117.3",
+    "date-fns": "^4.4.0",
+    "lucide-react": "^1.52.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "react-router-dom": "^7.18.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.2",
+    "autoprefixer": "^10.6.1",
+    "postcss": "^8.5.29",
+    "tailwindcss": "^4.3.3",
+    "vite": "^8.3.3"
+  }
+}
